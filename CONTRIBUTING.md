@@ -3,7 +3,7 @@
 ## Development setup
 
 ```bash
-git clone https://github.com/nassim0014/kinz-price-bridge.git
+git clone https://github.com/Kinz-org/kinz-price-bridge.git
 cd kinz-price-bridge
 python3 -m venv venv
 source venv/bin/activate
